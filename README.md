@@ -7,7 +7,7 @@ https://www.biorxiv.org/content/10.1101/037762v5
 for a description of the method.
 
 
-Install all the dependencies, as listed in the shell script. Place all of the *.fastq.gz files together with the shell script and the target genome sequence in one folder and run the shell script as follows
+Install all the dependencies, as listed in the shell script. Place all of the *.fastq.gz files together with the shell script, thin.py, and the target genome sequence in one folder and run the shell script as follows
 
 > ./pBac_tagmap_0.2.sh <target_genome.fa>
 
